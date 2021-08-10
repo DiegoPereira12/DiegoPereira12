@@ -1,4 +1,4 @@
-Olá!! Seja bem vindo. Eu sou Diego Pereira
+Olá!! Seja bem vindo. Eu sou Diego Pereira ✌🏾
 
 - 🌱  Estudando Python
 
