@@ -2,7 +2,7 @@ Olá!! Seja bem vindo. Eu sou Diego Pereira ✌🏾
 
 I’m currently studying ...
   <br>
-📚 Python, Javascript, HTML & CSS📚 
+📚 Python, Javascript, HTML & CSS 📚 
   <br>
 <div align="center">
   <a href="https://github.com/DiegoPereira12">
