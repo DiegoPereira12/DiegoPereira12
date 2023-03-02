@@ -2,7 +2,7 @@ Olá!! Seja bem vindo. Eu sou Diego Pereira ✌🏾
 
 I’m currently studying ...
   
-📚 Python, Flask, Javascript, HTML & CSS 📚 
+📚 Python, Django, Flask, Javascript, HTML & CSS 📚 
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
